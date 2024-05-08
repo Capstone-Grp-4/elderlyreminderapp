@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "A Capstone+ project",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Elderly Reminder app",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Elderly Reminder app",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "ERA"
+}
